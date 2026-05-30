@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcpdate",
+        "uuid": 14606209,
+        "checksum": "rsggyb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
